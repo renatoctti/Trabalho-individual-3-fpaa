@@ -144,7 +144,7 @@ A imagem do grafo é gerada automaticamente com os seguintes recursos:
 - **Caminho Hamiltoniano:** Arestas do caminho em vermelho.
 - **Arquivo:** `assets/grafo_hamiltoniano.png`
 
-### Exemplo de imagem gerada
+### Imagem do grafo usado para testar o código
 
 ![Grafo Hamiltoniano](assets/grafo_hamiltoniano.png)
 
